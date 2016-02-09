@@ -14,7 +14,7 @@ Just add this to your `project.json` file:
 }
 ```
 
-If you want to target Windows 8.1, just bump the version:
+Want to target Windows 8.1? Bump the version number:
 
 ```json
 "netcore451": {
