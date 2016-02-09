@@ -4,7 +4,7 @@ Use Windows 8-specific functionality in your .NET Core library.
 
 ## Getting Started
 
-Just add this line to your `project.json`:
+Just add this to your `project.json` file:
 
 ```json
 "frameworks": {
