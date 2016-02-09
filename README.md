@@ -1,4 +1,4 @@
-# .NET Core Targets for Windows 8
+# .NET Core Targets for Windows Runtime
 
 Creating a .NET Core library? Want to use native Windows Runtime APIs? You've come to the right place.
 
