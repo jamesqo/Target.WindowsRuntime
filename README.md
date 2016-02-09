@@ -1,6 +1,6 @@
 # WinRT Targets for .NET Core
 
-Creating a .NET Core library? Want to use native Windows Runtime APIs? You've come to the right place.
+Creating a .NET Core library? Want to use APIs native to the Windows Runtime? You've come to the right place.
 
 ## Getting Started
 
