@@ -1,6 +1,6 @@
 # WinRT Targets for .NET Core
 
-Use Windows 8-specific functionality in your .NET Core library.
+Creating a .NET Core library? Want to use native Windows Runtime APIs? You've come to the right place.
 
 ## Getting Started
 
