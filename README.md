@@ -1,6 +1,6 @@
-# .NET Core Targets for Windows 8
+# Windows Runtime APIs for .NET Core
 
-Creating a .NET Core library? Want to use Windows Runtime native APIs? You've come to the right place.
+Creating a .NET Core library? Want to use native Windows Runtime APIs? You've come to the right place.
 
 ## Getting Started
 
@@ -8,17 +8,9 @@ Just add this to your `project.json` file:
 
 ```json
 "frameworks": {
-    "netcore45": {
-        "Target.WindowsRuntime": "8.0.0"
+    "netcore451": {
+        "Target.WindowsRuntime": "8.1.0"
     }
-}
-```
-
-Want to target Windows 8.1? Bump the version:
-
-```json
-"netcore451": {
-    "Target.WindowsRuntime": "8.1.0"
 }
 ```
 
