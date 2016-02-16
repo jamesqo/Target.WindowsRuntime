@@ -3,7 +3,7 @@
     <metadata>
         <title>Windows Runtime APIs for .NET Core</title>
         <id>Target.WindowsRuntime</id>
-        <version>8.1.0</version>
+        <version>8.1.1</version>
         <authors>James Ko</authors>
         <projectUrl>http://github.com/jamesqo/Target.WindowsRuntime</projectUrl>
         <licenseUrl>http://github.com/jamesqo/Target.WindowsRuntime/blob/master/LICENSE</licenseUrl>
