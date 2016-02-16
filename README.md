@@ -10,7 +10,7 @@ Just add this to your `project.json` file:
 
 ```json
 "dependencies": {
-    "Target.WindowsRuntime": "8.1.0"
+    "Target.WindowsRuntime": "8.1.1"
 },
 
 "frameworks": {
