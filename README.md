@@ -12,7 +12,7 @@ Just add this to your `project.json` file:
 "frameworks": {
     ".NETPortable,Version=v4.5,Profile=Profile32": {
         "dependencies": {
-            "Target.WindowsRuntime": "8.1.0"
+            "Target.WindowsRuntime": "8.1.2"
         }
     }
 }
