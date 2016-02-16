@@ -9,10 +9,13 @@ Creating a .NET Core library? Want to use native Windows Runtime APIs? You've co
 Just add this to your `project.json` file:
 
 ```json
+"dependencies": {
+    "Target.WindowsRuntime": "8.1.0"
+},
+
 "frameworks": {
-    "netcore451": {
-        "Target.WindowsRuntime": "8.1.0"
-    }
+    "netcore451": { },
+    "wpa81": { }
 }
 ```
 
