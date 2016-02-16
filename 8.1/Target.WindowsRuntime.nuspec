@@ -15,5 +15,6 @@
     </metadata>
     <files>
         <file src="Windows.winmd" target="lib\netcore451"/>
+        <file src="Windows.winmd" target="lib\wpa81"/>
     </files>
 </package>
